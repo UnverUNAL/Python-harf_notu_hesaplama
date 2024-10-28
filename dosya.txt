@@ -1,0 +1,8 @@
+Ünver Ünal,80,70,60
+Tuğçe Yıldırım,70,80,80
+İdris Ceylan,70,60,80
+Uğur Polat,60,80,50
+Şafak Yolalan,80,70,80
+Ayşenur Bilir,80,90,80
+Melike Bakır,80,90,70
+Mehmet Bulut,80,80,90
